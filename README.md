@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://raw.githubusercontent.com/lucasgarciadominguez/Assets/master/CVPhoto.jpg
+![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/CVPhoto.jpg)
 
 
 <!--
