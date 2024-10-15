@@ -12,8 +12,8 @@ I've had the opportunity to work in teams on several occasions, where I sometime
 <div align="justify">
 If you are interested in expanding your professional network, discussing technologies or collaborating on projects, do not hesitate to contact me. </div>  <br>
 
-<div align="justify">
-By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadominguez](https://github.com/lucasgarciadominguez?tab=repositories) </div>
+
+By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadominguez](https://github.com/lucasgarciadominguez?tab=repositories) 
 
 
 <!--
