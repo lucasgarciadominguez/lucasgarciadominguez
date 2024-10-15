@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Lucas García Domínguez 👋
+<!--
 ![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/CVPhoto.jpg)
 
 
-<!--
 **lucasgarciadominguez/lucasgarciadominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
