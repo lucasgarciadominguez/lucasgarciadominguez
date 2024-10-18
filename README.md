@@ -15,10 +15,15 @@ If you are interested in expanding your professional network, discussing technol
 
 By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadominguez](https://github.com/lucasgarciadominguez?tab=repositories) 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="lucasgarciadominguez's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="lucasgarciadominguez's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgarciadominguez&theme=radical&hide_border=true" alt="lucasgarciadominguez's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="lucasgarciadominguez's GitHub Stats" />
+
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgarciadominguez&theme=radical&hide_border=true" alt="lucasgarciadominguez's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="lucasgarciadominguez's GitHub Stats" />
+</p>
+
 
 <!--
 **lucasgarciadominguez/lucasgarciadominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
