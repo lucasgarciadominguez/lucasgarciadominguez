@@ -13,11 +13,12 @@ I've had the opportunity to work in teams on several occasions, where I sometime
 If you are interested in expanding your professional network, discussing technologies or collaborating on projects, do not hesitate to contact me. </div>  <br>
 
 
-By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadominguez](https://github.com/lucasgarciadominguez?tab=repositories) 
+By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadominguez](https://github.com/lucasgarciadominguez?tab=repositories)
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="lucasgarciadominguez's GitHub Stats" />
 
-</p><!--
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgarciadominguez&theme=radical&hide_border=true" alt="lucasgarciadominguez's GitHub Stats" />
 </p>
