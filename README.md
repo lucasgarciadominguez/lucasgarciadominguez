@@ -17,7 +17,7 @@ By email at: lucaserious002@gmail.com My projects at: [github.com/lucasgarciadom
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadominguez&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="lucasgarciadominguez's GitHub Stats" />
 
-</p>
+</p><!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgarciadominguez&theme=radical&hide_border=true" alt="lucasgarciadominguez's GitHub Stats" />
 </p>
