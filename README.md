@@ -3,7 +3,7 @@
 <img src="https://github.com/lucasgarciadominguez/Assets/blob/main/logoLG.png"  height="320" align=left>
 <p align="left">
   <a href="https://lucasgarciadominguez.com">
-  <img src="https://img.shields.io/badge/-Lucas%20Garcia%20Web-orange?style=flat-square&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Lucas%20Web-orange?style=flat-square&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.linkedin.com/in/lucas-garcia-dominguez/">
     <img src="https://img.shields.io/badge/-lucasgarciadominguez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
