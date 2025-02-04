@@ -17,7 +17,7 @@ Backend developer with a strong background in <strong>C++</strong> and <strong>C
 
 <div align="justify">
 I have worked with various runtimes, libraries and frameworks, including <strong>ASP.NET, Node.js, React, Angular, Qt, Unity, Unreal Engine</strong> and <strong>Visual Studio</strong>. I am proficient in relational databases such as <strong>MySQL</strong> and <strong>Microsoft SQL Server</strong>, and I have experience with ORMs like <strong>Entity Framework</strong>. I am also well-versed in C++ libraries such as <strong>OpenGL, SDL2, Bullet</strong> and <strong>Box2D</strong>.</div> <br>
-<br> <br>
+<br> 
 <div align="justify">
 If you are interested in expanding your professional network, discussing technologies or collaborating on projects, do not hesitate to contact me. </div>  <br>
 <!--
