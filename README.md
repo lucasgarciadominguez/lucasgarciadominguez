@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-lucaserious002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Youtube">
   </a>
   <a href="https://www.youtube.com/@LucasGarciaDominguez">
-    <img src="https://img.shields.io/badge/-Lucas%20Garcia%20Dominguez-c14438?style=flat-square&logo=Youtube" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/-Lucas%20YT-c14438?style=flat-square&logo=Youtube" alt="YouTube Channel">
   </a>
 </p>
 
