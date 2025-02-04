@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas García Domínguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/lgd-high-resolution-logo2.png)<!-- -->
-<img src="https://github.com/lucasgarciadominguez/Assets/blob/main/logoLG.png" width="250" align=left>
+<img src="https://github.com/lucasgarciadominguez/Assets/blob/main/logoLG.png" width="300" align=left>
 <p align="left">
   <a href="https://lucasgarciadominguez.com">
   <img src="https://img.shields.io/badge/-Lucas%20Garcia%20Web-orange?style=flat-square&logoColor=white" alt="LinkedIn">
