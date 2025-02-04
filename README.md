@@ -1,6 +1,7 @@
 ## Hi there, I'm Lucas García Domínguez 👋
 
-![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/lgd-high-resolution-logo2.png)<!-- -->
+<!--![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/lgd-high-resolution-logo2.png)<!-- -->
+<img src="https://github.com/lucasgarciadominguez/Assets/blob/main/logoLG.png" width="450" align=left>
 <div align="justify">
 Backend developer with a strong background in <strong>C++</strong> and <strong>C#</strong>, gained through over 6 years of experience working on complex game development projects. Currently, I’m more focused on backend technologies, primarily in the <strong>.NET environment</strong>, leveraging my deep understanding of object-oriented programming, complex algorithms data structures, and design patterns. I also have experience in frontend development using <strong>React</strong> and <strong>Angular</strong>, which enables me to work across the full stack of a web application. In addition, I am proficient in game development technologies for both PC and mobile platforms, as well as in AR and multiplayer projects.</div>  <br>
 
