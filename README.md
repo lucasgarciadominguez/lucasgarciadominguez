@@ -2,8 +2,12 @@
 <!--![CV Photo](https://github.com/lucasgarciadominguez/Assets/blob/main/lgd-high-resolution-logo2.png)<!-- -->
 <img src="https://github.com/lucasgarciadominguez/Assets/blob/main/logoLG.png" width="310" align=left>
 <p align="left">
+  <a href="https://lucasgarciadominguez.com">
+  <img src="https://img.shields.io/badge/-Lucas%20Garcia%20Web-orange?style=flat-square&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.linkedin.com/in/lucas-garcia-dominguez/">
     <img src="https://img.shields.io/badge/-lucasgarciadominguez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:asterp04@gmail.com">
     <img src="https://img.shields.io/badge/-lucaserious002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Youtube">
   </a>
@@ -17,6 +21,13 @@ Backend developer with a strong background in <strong>C++</strong> and <strong>C
 
 <div align="justify">
 I have worked with various runtimes, libraries and frameworks, including <strong>ASP.NET, Node.js, React, Angular, Qt, Unity, Unreal Engine</strong> and <strong>Visual Studio</strong>. I am proficient in relational databases such as <strong>MySQL</strong> and <strong>Microsoft SQL Server</strong>, and I have experience with ORMs like <strong>Entity Framework</strong>. I am also well-versed in C++ libraries such as <strong>OpenGL, SDL2, Bullet</strong> and <strong>Box2D</strong>.</div> <br>
+
+## Programming Languages
+<img src = 'https://github.com/lucasgarciadominguez/Assets/blob/main/Logo_C_sharp.svg' width='27'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadominguez&layout=compact">
+  </div>
+  <br>
 
 ## Programming Languages
 <img src = 'https://github.com/lucasgarciadominguez/Assets/blob/main/Logo_C_sharp.svg' width='27'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
