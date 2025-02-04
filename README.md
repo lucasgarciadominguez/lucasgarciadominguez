@@ -7,8 +7,8 @@
   <a href="https://www.youtube.com/@LucasGarciaDominguez">
     <img src="https://img.shields.io/badge/-Lucas%20Garcia%20Dominguez-c14438?style=flat-square&logo=Youtube" alt="YouTube Channel">
   </a>
-  <a href="https://www.linkedin.com/in/lucas-garcia-dominguez/">
-    <img src="https://img.shields.io/badge/-lucasgarciadominguez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Youtube">
+  <a href="mailto:asterp04@gmail.com">
+    <img src="https://img.shields.io/badge/-lucaserious002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Youtube">
   </a>
 </p>
 
